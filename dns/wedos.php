@@ -2,7 +2,7 @@
 <?php
 
 // Include constants for authorization
-require_once(dirname(__FILE__)."/wedos.conf.php")
+require_once(dirname(__FILE__)."/wedos.conf.php");
 
 class DNS {
 	const DEBUG = true;
